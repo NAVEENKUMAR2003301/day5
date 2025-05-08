@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+/* 
+.orange{
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+}
+.white{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+}
+
+.green{
+    width: 200px;
+    height: 50px;
+    background-color: green;
+}
+
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: royalblue;
+    position: relative;
+    bottom: 100px;
+    left: 70px;
+    z-index: 0;
+}
+
+.flag{
+    position: relative;
+    top: 150px;
+    left: 100px;
+} */
+
+
+.bacRed{
+    width: 200px;
+    height: 150px;
+    background-color: red;
+}
+
+.hrLine{
+    width: 200px;
+    height: 20px;
+    /* border: 5px solid white; */
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    background-color: royalblue;
+    position: relative;
+    bottom: 100px;
+}
+.verLine{
+    width: 20px;
+    height: 150px;
+        border-left: 5px solid white;
+            border-right: 5px solid white;
+    background-color: royalblue;
+    position: relative;
+    bottom: 170px;
+    left: 50px;
+}
+.line{
+    width: 5px;
+    height: 11px;
+    background-color: royalblue;
+    position: absolute;
+    top: 55px;
+    left: 50px;
+}
+.line1{
+    width: 5px;
+    height: 11px;
+    background-color: royalblue;
+    position: absolute;
+    top: 55px;
+    left: 65px;
+}
+
